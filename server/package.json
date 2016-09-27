@@ -2,8 +2,7 @@
   "name": "push-notifications-server",
   "version": "1.0.0",
   "description": "Push notification Server.",
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": ""
@@ -13,5 +12,8 @@
   "bugs": {
     "url": ""
   },
-  "homepage": ""
+  "homepage": "",
+  "dependencies": {
+    "web-push": "^3.0.0"
+  }
 }
