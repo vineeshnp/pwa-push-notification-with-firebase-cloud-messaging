@@ -1,0 +1,17 @@
+{
+  "name": "push-notifications-client",
+  "version": "1.0.0",
+  "description": "Push notification Client.",
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Vineesh Narikutty Pacha",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
